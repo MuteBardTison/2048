@@ -21,7 +21,7 @@ Double up and merge titles with the same number touch
 
 ## Building
 
-- cmake
+- Cmake
 
 ## License
 
