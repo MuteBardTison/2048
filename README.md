@@ -1,5 +1,8 @@
 # 2048
 
+[![Build Status](https://travis-ci.org/MuteBardTison/2048.svg?branch=master)](https://travis-ci.org/MuteBardTison/2048)
+[![release](http://github-release-version.herokuapp.com/github/MuteBardTison/2048/release.svg?style=flat)](https://github.com/MuteBardTison/2048/releases)
+
   - Implemented with C++
   
   - Console running version

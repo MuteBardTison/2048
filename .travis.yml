@@ -2,11 +2,19 @@ language: cpp
 
 compiler:
   - gcc
+<<<<<<< HEAD
   -clang
+=======
+  - clang
+>>>>>>> 1ccbf118340c0cbdbafe9dab1def374f3c88190b
 
 before_script:
   - mkdir build
   - cd build
   - cmake ..
 
+<<<<<<< HEAD
 script: make && make test
+=======
+script: make
+>>>>>>> 1ccbf118340c0cbdbafe9dab1def374f3c88190b
