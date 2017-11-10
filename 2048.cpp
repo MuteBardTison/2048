@@ -334,6 +334,8 @@ int main(){
             case 'd':
                 move_right();
                 break;
+            case 'q':
+                exit(1);
             default:
                 break;
         }
