@@ -12,4 +12,4 @@ before_script:
 script:
   - make
   - ./2048
-  - q
+  - q\n
