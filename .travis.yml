@@ -9,7 +9,4 @@ before_script:
   - cd build
   - cmake ..
 
-script:
-  - make
-  - ./2048
-  - q\n
+script: make
